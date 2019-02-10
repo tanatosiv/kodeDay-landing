@@ -1,12 +1,12 @@
 const config = {
     'greeting': {
         'slogan': 'Las mejores guitarras',
-        'image': 'negocio_guitarras.jpg',
+        'image': 'img/1.jpg',
         'text_button': 'Comprar!'
     },
     'description': {
         'title': '¿Quienes somos?',
-        'image': 'descripcion_guitarra.jpg',
+        'image': 'img/tecnologia.jpg',
         'text_description': 'Somos los que venden las guitarras mas chidas.'
     },
     'catalog': {

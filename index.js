@@ -43,13 +43,19 @@ $('#contenedor-descripcion > .contenido >img').html(config.descripcion.imagen)
 
 //products
 
-createProducts()
+createProducts
 
 
 $(() =>{
     init(config)
 })
 
-const createProducts(){
+const createProducts= (products) =< {
+    let builtProducts:'';
+    products.forEach(product){
+        builtProducts +=;
+    };
+
+
 
 }
